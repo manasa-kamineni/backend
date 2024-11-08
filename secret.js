@@ -1,0 +1,1 @@
+export const connectString='mongodb+srv://manasaaaa04:ahzhi76keXtWyGHg@cluster0.sbm10.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0'
